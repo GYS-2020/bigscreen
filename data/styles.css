@@ -103,6 +103,10 @@
   font-weight:400;
   font-style:normal;
 }
+.droplist1 {
+  color:#000000;
+  text-align:left;
+}
 .radio_button {
   text-align:left;
 }
@@ -122,7 +126,12 @@
   font-weight:400;
   font-style:normal;
 }
+.line1 {
+}
 .shape {
+}
+.checkbox {
+  text-align:left;
 }
 .refs-image-gesture {
 }
