@@ -22,17 +22,15 @@
   left:0px;
   top:0px;
   width:1023px;
-  height:511px;
+  height:867px;
   background:inherit;
   background-color:rgba(255, 255, 255, 1);
-  box-sizing:border-box;
-  border-width:1px;
-  border-style:solid;
-  border-color:rgba(215, 215, 215, 1);
+  border:none;
   border-radius:0px;
   -moz-box-shadow:none;
   -webkit-box-shadow:none;
   box-shadow:none;
+  font-size:16px;
   text-align:left;
 }
 #u0 {
@@ -41,8 +39,9 @@
   left:69px;
   top:53px;
   width:1023px;
-  height:511px;
+  height:867px;
   display:flex;
+  font-size:16px;
   text-align:left;
 }
 #u0 .text {
