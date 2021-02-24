@@ -1,12 +1,12 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
 <svg version="1.1" xmlns:xlink="http://www.w3.org/1999/xlink" width="729px" height="488px" xmlns="http://www.w3.org/2000/svg">
   <defs>
-    <mask fill="white" id="clip15">
+    <mask fill="white" id="clip20">
       <path d="M 0 488  L 0 0  L 143.764705882353 0  L 729 0  L 729 488  L 498.095022624435 488  L 0 488  Z " fill-rule="evenodd" />
     </mask>
   </defs>
-  <g transform="matrix(1 0 0 1 -2830 -3252 )">
-    <path d="M 0 488  L 0 0  L 143.764705882353 0  L 729 0  L 729 488  L 498.095022624435 488  L 0 488  Z " fill-rule="nonzero" fill="#f2f2f2" stroke="none" transform="matrix(1 0 0 1 2830 3252 )" />
-    <path d="M 0 488  L 0 0  L 143.764705882353 0  L 729 0  L 729 488  L 498.095022624435 488  L 0 488  Z " stroke-width="2" stroke="#f2f2f2" fill="none" transform="matrix(1 0 0 1 2830 3252 )" mask="url(#clip15)" />
+  <g transform="matrix(1 0 0 1 -2830 -3682 )">
+    <path d="M 0 488  L 0 0  L 143.764705882353 0  L 729 0  L 729 488  L 498.095022624435 488  L 0 488  Z " fill-rule="nonzero" fill="#f2f2f2" stroke="none" transform="matrix(1 0 0 1 2830 3682 )" />
+    <path d="M 0 488  L 0 0  L 143.764705882353 0  L 729 0  L 729 488  L 498.095022624435 488  L 0 488  Z " stroke-width="2" stroke="#f2f2f2" fill="none" transform="matrix(1 0 0 1 2830 3682 )" mask="url(#clip20)" />
   </g>
 </svg>
